@@ -4,7 +4,7 @@ Running **V2ray** in the edge.
 
 # Documentation
 
-https://edgetunnel.114567.xyz/
+https://edgetunnel.github.io/edgetunnel/guide/cf-pages.html
 
 # Feedback and Communication
 
